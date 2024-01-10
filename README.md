@@ -1,6 +1,6 @@
 <h1> Hey, I’m Aman </h1>
 
-<img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
+<img src="./images/vector.png" width="32%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Engineer+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
 
