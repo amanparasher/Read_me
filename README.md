@@ -37,6 +37,7 @@
 <img height="48" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> 
 <img height="48" alt="mongoDB" src="./images/mongodb.jpg">
 <img height="48" alt="PostgreSQL" src="./images/Postgresql.png">
+<img height="48" alt="PowerBI" src="./images/powerBI.png">
   
 </div>
 
