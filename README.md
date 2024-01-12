@@ -43,7 +43,9 @@ Let's engineer a better tomorrow!
 <img height="48" alt="mongoDB" src="./images/mongodb.jpg">
 <img height="48" alt="PostgreSQL" src="./images/Postgresql.png">
 <img height="48" alt="PowerBI" src="./images/powerBI.png">
-  
+<img height="50" alt="Kibana" src="./images/kibana.png">
+<img height="50" alt="Elasticsearch" src="./images/elasticsearch.png">
+
 </div>
 
 ### Python libraries I expertise in
