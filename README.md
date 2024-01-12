@@ -14,13 +14,10 @@
   
 Let's engineer a better tomorrow!
  
-
-
   </div>
 <br>
 <br>
 <br>
-
 <div id="badges" align = "center">
 
   <a href="https://www.linkedin.com/in/aman-parasher/">
@@ -37,12 +34,12 @@ Let's engineer a better tomorrow!
 <img height="55" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img width="75" alt="git" src="./images/git-removebg-preview.png">
 <img height="48" alt="sql" src="./images/sql2-compressed-1-removebg-preview.png">
-<img height="50" alt="c" src="https://fekir.info/img/c-logo.png"> 
 <img height="48" alt="matlab" src="./images/Matlab1-removebg-preview-removebg-preview.png">
 <img height="48" alt="arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"> 
-<img height="48" alt="mongoDB" src="./images/mongodb.jpg">
 <img height="48" alt="PostgreSQL" src="./images/Postgresql.png">
+<img height="50" alt="c" src="https://fekir.info/img/c-logo.png"> 
 <img height="48" alt="PowerBI" src="./images/powerBI.png">
+<img height="48" alt="mongoDB" src="./images/mongodb.jpg">
 <img height="50" alt="Kibana" src="./images/kibana.png">
 <img height="50" alt="Elasticsearch" src="./images/elasticsearch.png">
 
