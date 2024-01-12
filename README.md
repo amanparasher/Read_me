@@ -5,11 +5,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Engineer+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
 
 <div align = "left">
+✨ Raw data whisperer in training 
+  
   👀 I am an Artificial Intelligence and Data Engineering enthusiast<br>
-  🤖 Currently practising Machine Learning and its applications<br>
-  🫂 Looking for a collaborator on DE and ML projects<br> 
-  📫 amanparasher.ai@gmail.com <br> 
+  🤖 Building pipelines, cleaning chaos, turning bytes into insights<br>
+  🫂 Seeking collaborators & feedback to build data dreams!<br> 
+  📫 Hit me up: amanparasher.ai@gmail.com <br> 
+  
+Let's engineer a better tomorrow!
  
+
 
   </div>
 <br>
