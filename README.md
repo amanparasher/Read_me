@@ -2,7 +2,7 @@
 
 <img src="./images/vector.png" width="32%" alt="vector" align="right"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Engineer+👩‍🔬;Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Engineer+👩‍🔬;ML+Enthusiast+💻;)](https://git.io/typing-svg)
 
 <div align = "left">
 ✨ Raw data whisperer in training 
